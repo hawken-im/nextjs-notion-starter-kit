@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'MayStone Homes',
+  domain: 'maystone.homes',
+  author: 'MayStone Ltd',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Stone by Design, MayStone by Choice',
 
   // social usernames (optional)
   // twitter: 'whatajerrrk',
